@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-puts("\"programming is like building  a multilingual puzzle");
+fput("and that piece of art is useful\ - Dora Korpan that piece of art is useful\");
 return (0);
 }
